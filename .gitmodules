@@ -1,3 +1,4 @@
 [submodule "fs/exfat"]
 	path = fs/exfat
 	url = https://github.com/namjaejeon/linux-exfat-oot
+	branch = for-kernel-version-from-4.1.0
